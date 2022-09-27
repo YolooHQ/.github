@@ -5,10 +5,10 @@ We create solutions to help people grow their businesses.
 
 ## Socials 🫂
 
-- [@YolooHQ](https://twiiter.com/YolooHQ)
-- [Yoloo](https://twiiter.com/YolooHQ)
+- [Twitter](https://twiiter.com/YolooHQ)
+- [Linkedin](https://www.linkedin.com/company/yoloo)
 
 ## Tools ⚙️
 
-- [@YolooHQ](https://twiiter.com/YolooHQ)
+- [Beaverpage](https://usebeaver.com)
 
